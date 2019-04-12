@@ -1,4 +1,4 @@
-Naïve Bayes Text Classification
+# Naïve Bayes Text Classification
 
 Instructor: Prof. Madhavan Mukund, Chennai Mathematical Institute
 
